@@ -2,10 +2,10 @@
 
 ## Authors
 
-| Name                | ID          |
-|---------------------|-------------|
-| Carlo D'Angelo      | `260803454` |
-| Mathieu Bissonnette | `260867497` |
+| Name                | ID            |
+|---------------------|---------------|
+| Carlo D'Angelo      | `260 803 454` |
+| Mathieu Bissonnette | `260 867 497` |
 
 ## Introduction
 
